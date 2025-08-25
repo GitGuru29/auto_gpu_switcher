@@ -1,0 +1,3 @@
+psutil
+pyyaml
+PyQt5
